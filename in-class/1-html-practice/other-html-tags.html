@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Other HTML Tags</title>
+  </head>
+  <body>
+    <!-- Details and Summary -->
+    <details>
+      <summary>Epcot Center</summary>
+      <p>
+        Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions,
+        award-winning fireworks and seasonal special events.
+      </p>
+    </details>
+
+    <!-- Dialog -->
+    <dialog open>This is an open dialog window</dialog>
+
+    <!-- Meter -->
+    <label for="disk_c">Disk usage C:</label>
+    <meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br />
+    <label for="disk_d">Disk usage D:</label>
+    <meter id="disk_d" value="0.6">60%</meter>
+
+    <!-- Audio and Video -->
+    <!-- src controls autoplay muted loop  -->
+    <audio src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg"></audio>
+    <video
+      src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      type="video/mp4"
+    ></video>
+
+    <!-- Iframe -->
+    <iframe width="300px" height="200px" src="https://example.com" title="W3Schools Free Online Web Tutorials"></iframe>
+
+    <!-- Youtube Embedded Iframe (not working though RIP) https://youtu.be/dQw4w9WgXcQ -->
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=fEzG_abxghk4J_OH"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+
+    <!-- Canvas -->
+    <canvas id="myCanvas"> Your browser does not support the canvas tag. </canvas>
+    <script>
+      const c = document.getElementById("myCanvas");
+      const ctx = c.getContext("2d");
+      ctx.fillStyle = "red";
+      ctx.fillRect(20, 20, 75, 50);
+
+      //Turn transparency on
+      ctx.globalAlpha = 0.2;
+      ctx.fillStyle = "blue";
+      ctx.fillRect(50, 50, 75, 50);
+      ctx.fillStyle = "green";
+      ctx.fillRect(80, 80, 75, 50);
+    </script>
+  </body>
+</html>

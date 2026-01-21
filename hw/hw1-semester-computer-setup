@@ -1,0 +1,62 @@
+Hey everyone! Welcome to IS 120!
+
+These instructions will help you get your computer set up with everything you need for the semester.
+
+If you have any questions about these instructions or if you get stuck, please message the instructor or TA on Slack!
+
+It might seem like a lot, but you'll only ever have to do all of this once!
+
+- Join Slack https://join.slack.com/t/is120-w26/shared_invite/zt-3m6o40i6t-Dxoo9INWhVcxawaqK~fEtA
+
+- Install VS Code https://code.visualstudio.com/download
+
+- Add VS Code Extensions
+
+  You can install each extension from its URL or by searching in the VS Code extension marketplace.
+
+  - Prettier - Code formatter https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+  - HTMLHint https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint
+  - Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+  - Markdown Preview Github Styling https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
+  - Code Spell Checker https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  - Image preview https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
+
+- Add VS Code Prettier Settings
+
+  - Open VS Code -> Open Command Palette (Ctrl+Shift+P for Windows. Cmd+Shift+P for Mac)
+
+  - Search for "Preferences: Open User Settings (JSON)"
+
+  - Add the following lines to your settings.json
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "editor.formatOnSave": true,
+
+- I would strongly recommend using a Chromium-based browser this semester (Google Chrome, Microsoft Edge, Brave, Opera)
+
+  This will make debugging a lot easier
+
+- Create a GitHub account https://github.com/signup
+
+- IF ON MAC Install Homebrew
+  Run the following command in your terminal
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+- IF ON MAC Install Git
+
+  Run the following command in your terminal
+
+  brew install git
+
+- IF ON WINDOWS Install Git https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe
+
+- MAC AND WINDOWS Modify Git Config
+
+  Run each of the following commands in your terminal using YOUR NAME and EMAIL ADDRESS that you used for GitHub
+
+  git config --global user.name "Your Name"
+
+  git config --global user.email email@address.com
+
+  After you have completed the class setup on your computer, message the instructor or TA on Slack for approval.
