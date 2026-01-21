@@ -17,8 +17,11 @@ In 3 separate commits, add the following to your repo. Be descriptive in your co
    - Brief description of the repo.
    - Include your first and last name.
 
-After your initial commits are completed, publish the website using GitHub Pages.
-Make sure to add the link to the live website under the About section of your GitHub repo.
+After your initial commits are completed, publish the website using GitHub Pages. Make sure to add the link to the live website under the About section of your GitHub repo.
+
+Commit some changes, maybe to your `index.html` and wait for changes to show on your live GitHub Pages site. If it doesn't, you did something wrong.
+
+Before you turn in this assignment, browse some public GitHub repos. You can use this link (https://github.com/explore) or search online. There's a lot of open source projects out there and a lot of cool GitHub repos you can explore. You may not understand a lot of the code in these repos, but they're still fun to look at. In your final commit, add a cool repo you found and a description of it in your `README.md`.
 
 On LearningSuite, turn in the link to your repo. Don't use the Git URL or GitHub Pages link.
 
