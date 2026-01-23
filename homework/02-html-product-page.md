@@ -1,3 +1,5 @@
+# HTML Product Page
+
 Make a single HTML file for a product information page. Content is up to you. The goal of this assignment is for you to learn how to structure a page and choose the appropriate semantic HTML elements. For now, avoid using tags like div or span unless no semantic alternative makes sense.
 
 Your page should include the following:

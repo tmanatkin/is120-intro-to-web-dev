@@ -1,3 +1,5 @@
+# Computer Setup
+
 Hey everyone! Welcome to IS 120!
 
 These instructions will help you get your computer set up with everything you need for the semester.
@@ -13,7 +15,6 @@ It might seem like a lot, but you'll only ever have to do all of this once!
 - Add VS Code Extensions
 
   You can install each extension from its URL or by searching in the VS Code extension marketplace.
-
   - Prettier - Code formatter https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
   - HTMLHint https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint
   - Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
@@ -22,7 +23,6 @@ It might seem like a lot, but you'll only ever have to do all of this once!
   - Image preview https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
 - Add VS Code Prettier Settings
-
   - Open VS Code -> Open Command Palette (Ctrl+Shift+P for Windows. Cmd+Shift+P for Mac)
 
   - Search for "Preferences: Open User Settings (JSON)"
