@@ -1,0 +1,13 @@
+/* This is external CSS */
+
+h1 {
+  border: 10px solid green;
+}
+
+.testclass {
+  background-color: yellow;
+}
+
+#testid {
+  background-color: orange;
+}
