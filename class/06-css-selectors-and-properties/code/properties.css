@@ -1,0 +1,40 @@
+/* All CSS Properties https://www.w3schools.com/cssref/index.php */
+
+/* COLOR */
+/* color background-color opacity */
+/* Color Names https://www.w3schools.com/colors/colors_names.asp */
+/* RGB https://codepen.io/lsburton/pen/QWgGOGK?editors=1100  */
+/* HSL https://codepen.io/lsburton/pen/WNOoMBb?editors=1100 */
+/* Hexadecimal */
+
+h1 {
+  color: orange;
+  background-color: black;
+  opacity: 0.6;
+}
+
+/* WIDTH / HEIGHT */
+/* width height min/max */
+
+h1 {
+  width: 50%;
+  height: 500px;
+}
+
+/* TEXT */
+/* Find a font https://fonts.google.com/ */
+/* font-family font-size font-weight font-style text-align line-height text-decoration */
+
+* {
+  font-family: "Urbanist", sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  font-style: italic;
+  text-align: center;
+  line-height: 1;
+  text-decoration: underline;
+}
+
+/* UNITS */
+/* px, %, rem, vw/vh */
+/* https://viewportsizer.com/what-is-my-screen-size/ */

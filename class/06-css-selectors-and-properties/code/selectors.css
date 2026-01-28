@@ -1,0 +1,25 @@
+/* element selector */
+p {
+  color: red;
+}
+
+/* class selector */
+.example-class {
+  background-color: black;
+}
+
+/* id selector */
+#example-id {
+  background-color: blue;
+}
+
+/* descendant selector */
+section p {
+  border: 1px solid red;
+}
+
+/* grouping multiple selectors */
+#div-1,
+#div-2 {
+  color: orange;
+}
