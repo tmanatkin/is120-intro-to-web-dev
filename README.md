@@ -4,22 +4,9 @@ This repository contains necessary resources for students to complete homework a
 
 ## Repository Structure
 
-```
-is-120-intro-to-web-dev
-├─ homework
-│   └─ 00-homework.md
-└─ class
-    └─ 00-lecture
-        ├─ code
-        │   └─ index.html
-        ├─ class-prep.md
-        └─ lecture.md
-```
-
-- `homework/` Contains homework assignments for the course.
-- `class/` Contains directories for each lecture.
-- `class/00-lecture` Contains class prep and lecture material.
-- `class/00-lecture/code` Contains code examples and exercises from class.
+- `homework/` Weekly homework assignments for the course.
+- `class/` Class prep, in-class code examples, and lecture material.
+- `assets/` Static assets used in course materials.
 
 ## Getting Started
 
