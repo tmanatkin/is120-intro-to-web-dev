@@ -27,10 +27,4 @@ CSS Position
 
 - `static` is default
 - Explanation https://htmlandcssguidebook.com/css/position/
-- `sticky` is similar to `relative` but only activates on scroll
-
-Explain Float, don't use it for layouts
-
-- https://htmlandcssguidebook.com/css/float-clear/
-
-- Build a card together
+- `sticky` is similar to `fixed` but only activates on scroll

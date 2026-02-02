@@ -1,0 +1,24 @@
+/* might be a good idea to include this in all of your CSS files in the future */
+* {
+  box-sizing: border-box;
+}
+
+/* Another reset that's a good idea */
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  /* basic styling */
+  background-color: blue;
+  color: white;
+  border: 5px solid red;
+
+  /* padding and margin examples */
+  padding: 20px 5px;
+  margin: 20px;
+
+  /* changing from default display: block; */
+  display: inline-block;
+}
