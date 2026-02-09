@@ -15,7 +15,8 @@ The following requirements should help give you some structure.
 - Use a single external stylesheet for all of the pages.
 - Include element, class, and ID selectors in your CSS.
 - Include at least one image on your site.
-- Use at least one instance of `margin`, `padding`, `display`, and `position` in your CSS. Be prepared to explain your choices.
+- Use at least one instance each of `margin`, `padding`, `display`, and `position` in your CSS. Be prepared to explain your choices.
+- Include a `:hover` pseudo class and a `::before` or `::after` pseudo element
 
 These requirements are just a starting point. Meeting these requirements alone will not get you 100%. I want you to go above and beyond, impress me with your HTML and CSS skills. Be creative and have fun with this project! Don't be afraid to try new things (maybe stay away from Flexbox and Grid for now though).
 
