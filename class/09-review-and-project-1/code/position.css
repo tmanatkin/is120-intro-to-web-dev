@@ -1,0 +1,19 @@
+.card {
+  background-color: red;
+  width: 200px;
+  padding: 20px;
+  position: relative;
+}
+
+h2,
+p {
+  text-align: center;
+  margin: 0px;
+}
+
+.icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}

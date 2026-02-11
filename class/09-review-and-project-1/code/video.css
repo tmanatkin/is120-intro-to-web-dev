@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+.hero-video {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.video-replacement {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(255, 0, 0, 0.111);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.filler {
+  height: 1000px;
+}
+
+h1,
+p {
+  margin: 0;
+}
