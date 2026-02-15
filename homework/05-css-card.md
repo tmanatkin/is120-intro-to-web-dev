@@ -32,11 +32,11 @@ After your card is complete, create 2 additional copies of the card with differe
 - All cards should use `display: inline-block;` on the outside container to ensure they stack nicely next to each other.
 - Add an additional `class` or `id` to a single card and add some unique styles to make it stand out
 
-In your `README.md` provide an explanation of the following.
+In your `README.md` provide an explanation of the following:
 
-- Where you used `margin` and why;
-- Where you used `padding` and why;
-- Where you used `display` and why;
-- Where you used `position` and why;
+- Where you used `margin` and why
+- Where you used `padding` and why
+- Where you used `display` and why
+- Where you used `position` and why
 
 Publish using GitHub pages and include the live URL in your repo about section. Submit the GitHub repo URL in LearningSuite.
