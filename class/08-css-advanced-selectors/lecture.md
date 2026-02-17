@@ -1,3 +1,7 @@
+Advanced CSS Selectors Slides
+
+- https://docs.google.com/presentation/d/1lPPD-R5wVBwYW5r_xf66tWa2iLf55sGiYRliNf37qhc/edit?usp=sharing
+
 CSS Float
 
 - https://htmlandcssguidebook.com/css/float-clear/
