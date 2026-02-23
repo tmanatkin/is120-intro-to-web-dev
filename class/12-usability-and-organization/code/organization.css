@@ -1,0 +1,52 @@
+/* ========================================================
+   Defaults
+   ======================================================== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Variable Examples */
+/* Color variables: primary, secondary, accent, background, foreground, text */
+/* Font variables: font-family, font-size */
+/* Other variables: border-width, border-radius, transition-speed */
+
+/* Usage: var(--variable-name) */
+
+:root {
+  --color-primary: #002193;
+  --color-secondary: #000000;
+  --color-background: black;
+  --color-foreground: white;
+}
+
+body {
+  /* insert styles here */
+  background-color: var(--color-background);
+}
+
+main {
+  /* insert styles here */
+  background-color: var(--color-background);
+}
+
+/* ========================================================
+   First Section
+   ======================================================== */
+
+section.first {
+  /* insert styles here */
+  background-color: var(--color-background);
+}
+
+h1 {
+  background-color: #002193;
+  color: var(--color-foreground);
+}
+
+/* this is an inline comment explaining why I did that thing */
+.card {
+  background-color: #002193;
+}
