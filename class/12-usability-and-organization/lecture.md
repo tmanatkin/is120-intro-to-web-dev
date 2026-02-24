@@ -1,3 +1,7 @@
+Web Usability and CSS Organization Slides
+
+- https://docs.google.com/presentation/d/1kKOrdqCEkjBMnXNbTxfgA_KII0QAo3_JIRbADltvEkk/edit?usp=sharing
+
 Usability Website Examples
 
 - https://studiorotate.com/
