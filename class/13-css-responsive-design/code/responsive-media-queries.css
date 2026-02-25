@@ -1,0 +1,13 @@
+/* Mobile First */
+@media screen and (min-width: 760px) {
+  body {
+    background-color: red;
+  }
+}
+
+/* Desktop First */
+@media screen and (max-width: 500px) {
+  body {
+    background-color: blue;
+  }
+}

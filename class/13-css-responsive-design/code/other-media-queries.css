@@ -1,0 +1,27 @@
+/* Dark Mode */
+
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1b1b1b;
+    --text-color: #d0d0d0;
+  }
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Hover */
+
+/* hover styles when hover is supported */
+@media (hover: hover) {
+  a:hover {
+    background-color: red;
+  }
+}
