@@ -5,7 +5,8 @@ Take a single web page from a previous assignment (like HW 6 or Project 1) and m
 You can choose to create a new GitHub repo or submit an existing one for this assignment.
 
 - Include multiple media queries to ensure your page is fully usable and visually appealing on a mobile view. You may need to restructure the layout slightly as well
-- Set custom breakpoints as CSS variables. You should only need two or three
+- Define your own custom breakpoints, you should only need two or three
+  > Note: You actually can't use CSS variables for this because media query breakpoints are technically not CSS properties.
 
 In your `README.md` include the following:
 
