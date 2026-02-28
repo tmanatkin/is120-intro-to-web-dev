@@ -18,3 +18,22 @@ For each tool, you will show:
 No slides needed, this is a casual demo where you’re just showing the class how to use some tools effectively.
 
 Plan on your demo for both tools taking 5-10 minutes total.
+
+### Dev Tool Demo Ideas
+
+- Emmet
+- Coolors
+- Khroma
+- Gradient Generator
+- Unsplash & Pexels
+- Compressor.io & Remove.bg
+- UnDraw
+- Haikei
+- Figma
+- Feather Icons
+- Iconify
+- Neumorphism.io
+- CSS Generators
+- WhatFontIs
+- FontPair
+- Animista
