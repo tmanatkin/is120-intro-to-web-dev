@@ -1,0 +1,25 @@
+/* Percentages */
+/* @keyframes name {
+  0% {
+  }
+  100% {
+  }
+} */
+
+/* From and To */
+@keyframes fade-in {
+  from {
+    background-color: transparent;
+  }
+  to {
+    background-color: red;
+  }
+}
+
+/* Animation Property */
+/* name, duration, timing function, delay, count/infinite, forwards, 2 alternate */
+.element {
+  width: 200px;
+  height: 200px;
+  animation: fade-in 0.5s;
+}

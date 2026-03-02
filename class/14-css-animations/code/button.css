@@ -1,0 +1,20 @@
+.button {
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 0.25rem 0.5rem;
+  margin: 20px;
+  display: inline-block;
+  transition: 0.3s ease-out;
+}
+
+@media (hover: hover) {
+  .button:hover {
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+  }
+}

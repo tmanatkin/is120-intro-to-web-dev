@@ -1,0 +1,22 @@
+.spacing {
+  height: 100vh;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation: fade-in linear;
+  animation-timeline: view(); /* CURRENTLY NOT FULLY SUPPORTED IN FIREFOX AND SAFARI */
+  animation-range: entry 0% entry 100%; /* CURRENTLY NOT FULLY SUPPORTED IN FIREFOX AND SAFARI */
+  animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
