@@ -1,0 +1,29 @@
+:root {
+  font-size: 32px;
+}
+
+h1,
+p {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+/* REM */
+
+h1.rem {
+  font-size: 3rem;
+}
+
+p.rem {
+  font-size: 1rem;
+}
+
+/* PX */
+
+h1.px {
+  font-size: 48px;
+}
+
+p.px {
+  font-size: 16px;
+}
