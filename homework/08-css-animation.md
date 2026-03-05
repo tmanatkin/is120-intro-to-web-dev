@@ -4,7 +4,9 @@ Create a GitHub repo for this assignment named `is120-hw8-firstname-lastname`.
 
 Copy the following CSS Animation.
 
-<video width=500px src="../assets/videos/animation.mp4" controls></video>
+<video width=500px src="../assets/videos/animation.mp4" controls>
+  <a href="../assets/videos/animation.mp4">animation.mp4</a>
+</video>
 
 You can use whatever resources you want (look up documentation, describe the problem to ChatGPT, etc.). I only ask that you don't paste the video itself directly into AI to see how it was done. To be honest, it probably won't be very good at telling you that either.
 
