@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel {
+  margin-top: 50px;
+  height: 20px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+
+.red,
+.blue {
+  height: 100%;
+  width: 50px;
+  flex-shrink: 0;
+  animation: rotate 3s infinite linear;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+@keyframes rotate {
+  from {
+    transform: translate(-100px, 0);
+  }
+  to {
+    transform: translate(0, 0);
+  }
+}
