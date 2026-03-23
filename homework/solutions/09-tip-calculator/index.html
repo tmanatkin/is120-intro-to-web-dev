@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tip Calculator</title>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <h1>Tip Calculator</h1>
+
+    <label for="bill-amount">Bill Amount ($)</label>
+    <input type="number" id="bill-amount" placeholder="0.00" min="0" />
+    <!-- <input type="text" id="bill-amount" placeholder="0.00" /> -->
+
+    <h3>Select Tip %</h3>
+    <input type="radio" name="tip" id="tip-1" value="10" />
+    <label for="tip-1">10%</label>
+    <input type="radio" name="tip" id="tip-2" value="15" />
+    <label for="tip-2">15%</label>
+    <input type="radio" name="tip" id="tip-3" value="20" />
+    <label for="tip-3">20%</label>
+    <input type="radio" name="tip" id="tip-4" value="25" />
+    <label for="tip-4">25%</label>
+
+    <p id="result">Tip: $0.00 | Total: $0.00</p>
+  </body>
+</html>
