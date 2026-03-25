@@ -1,5 +1,3 @@
-Class Prep
-
 W3 JavaScript Arrays
 
 - https://www.w3schools.com/js//js_arrays.asp
