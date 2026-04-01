@@ -1,6 +1,6 @@
 let addItemBtn = document.querySelector("#addItemBtn");
 let newTodo = document.querySelector("#newTodo");
-let clearBtn = document.querySelector("#clearBtn"); // added for local storage
+let clearBtn = document.querySelector("#clearBtn");
 
 let todoListContainer = document.querySelector("#todoListContainer");
 let element;
