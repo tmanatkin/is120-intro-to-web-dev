@@ -1,4 +1,4 @@
-const API_KEY = "insert-api-key-here"; //
+const API_KEY = "insert-api-key-here";
 const MODEL = "insert-model-here"; // select from Vercel AI Gateway available models https://vercel.com/ai-gateway/models
 
 async function askAI(content) {
