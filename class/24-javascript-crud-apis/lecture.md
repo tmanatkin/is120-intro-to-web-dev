@@ -21,8 +21,3 @@ JavaScript CRUD APIs Slides
           - create new row
           - delete row by ID
           - edit row by ID
-      - What does each supabase call return? Why would these be helpful?
-      - Add error handling using if and early return
-    - Pair programming
-      - Tie actions to the DOM
-      - Consider different actions/things we could tie these functions to
