@@ -52,7 +52,9 @@ If none of the times work for you, please message me on Slack and we can work so
 
 You should be familiar with student ratings. All I ask is that you complete it for this class to receive full credit for your Final Project.
 
-I will send out a link to the end of semester feedback survey soon and update it here as well.
+Please also complete this end of semester feedback survey for full credit.
+
+- https://forms.gle/BrDyPV7fEiFtCRRh6
 
 ### Submission
 
