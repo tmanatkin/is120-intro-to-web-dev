@@ -1,0 +1,7 @@
+- https://github.com/James-820/is120-final-project-james-day
+- https://github.com/aarongarry/is120-final-aaron-garry
+- https://github.com/spencercowleykimball/SpencerCon
+- https://github.com/millett1/is120-FinalProject-Holden-Millett-
+- https://github.com/Asher4269/budget-buddy
+- https://github.com/hamidjae/is120-project4-hamidjaeyoung-jahangir
+- https://github.com/trentpope/is120-project-final-trent-pope
